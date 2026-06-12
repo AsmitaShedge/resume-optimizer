@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+python-docx
+PyMuPDF
+spacy
+mysql-connector-python
+matplotlib
+openpyxl
+reportlab
